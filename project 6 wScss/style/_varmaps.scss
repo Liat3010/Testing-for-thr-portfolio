@@ -1,0 +1,14 @@
+$HBGcolor:#FDBD03;
+$span-color:#020253;
+
+// maps
+$font-size:(
+    'L':50px,
+    "s":15px,
+    );
+  
+
+@mixin flexCenter{
+    display: flex;
+    justify-content: center;
+}
